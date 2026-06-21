@@ -1,0 +1,9 @@
+dtb-decomp
+compile_commands.json
+
+examples/*
+!examples/*.c
+
+*.dtb
+*.o
+*.out
